@@ -48,7 +48,7 @@ frontend/
 
 ### Backend
 
-```bash id="b1a2c3"
+```bash 
 cd backend
 pip install -r requirements.txt
 python -m uvicorn main:app --reload
