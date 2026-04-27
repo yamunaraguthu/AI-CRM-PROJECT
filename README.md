@@ -1,8 +1,3 @@
-# AI-CRM-PROJECT
-Sare 👍 final ga **clean & simple README** ivvanu — copy paste chesi use cheyyachu 👇
-
----
-
 # 🏥 AI CRM - Doctor Interaction System
 
 ## 📌 Overview
