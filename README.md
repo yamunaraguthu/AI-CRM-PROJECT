@@ -56,7 +56,7 @@ python -m uvicorn main:app --reload
 
 Create `.env` file:
 
-```id="d4e5f6"
+```
 GROQ_API_KEY=your_api_key_here
 ```
 
@@ -64,7 +64,7 @@ GROQ_API_KEY=your_api_key_here
 
 ### Frontend
 
-```bash id="g7h8i9"
+```bash 
 cd frontend
 npm install
 npm start
